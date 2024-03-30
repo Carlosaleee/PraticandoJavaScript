@@ -1,0 +1,36 @@
+* {
+    font-family: Verdana;
+}
+
+.corpo {
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+button {
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: 900;
+    background-color: #daa520;
+    box-shadow: 3px 3px 3px #000;
+}
+
+.raw {
+    width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+    float: left;
+    padding-bottom: 50px;
+}
+
+.Secreta {
+    background-color: #d1d1d1;
+    width: 150px;
+    height: 150px;
+    margin: 15px 15px 50px 15px;
+    display: block;
+    float: left;
+    position: relative;
+}
